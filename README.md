@@ -100,5 +100,14 @@ Developed and maintained by [The Addon Forge](https://www.youtube.com/@theaddonf
 
 ---
 
+## 📝 License
+© 2025 The Addon Forge. All rights reserved.  
+
+This repository contains documentation and assets for **Marketplace Media Downloader**.  
+The source code for the extension is proprietary and not covered by an open-source license.  
+Usage, copying, or redistribution is not permitted without explicit permission.
+
+---
+
 ## 📢 Keywords (SEO)
 marketplace media downloader, alibaba downloader, globalsources downloader, e-commerce media tool, product image downloader, product video downloader, sourcing tool, chrome extension, firefox addon, edge extension
